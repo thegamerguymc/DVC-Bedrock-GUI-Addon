@@ -18,3 +18,6 @@ Allows for Java players to use /voicechat from the Simple Voice Chat plugin on B
 Commands
 /dvcui -- Opens the GUI to control Simple Voice Chat Discord Bridge (only works on bedrock)
 /bvc -- Opens menu only if config is set to 'COMMAND' or 'BOTH'
+
+
+Find full source code and all builds here: https://drive.google.com/file/d/1WmhSQed0VAuM2M_mUJXZUWm2gQAuilJI/view?usp=sharing
